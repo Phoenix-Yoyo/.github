@@ -1,59 +1,91 @@
 # Hi, I'm 陳囿任 (Yoyo)
 
-> "Research is what I'm doing when I don't know what I'm doing." - Wernher von Braun
+> “Research is what I’m doing when I don’t know what I’m doing.” — Wernher von Braun
 
 ## About Me
 
-- 目前就讀國立臺北科技大學機電整合技優專班
-- 具備 PLC 控制、工業機器人操作與自動化系統整合實作經驗
-- 曾赴德國參與工業領域海外研習，接觸職業教育與先進製造產線
-- 喜歡把軟體邏輯、機構設計與產線需求整合成可落地的解決方案
+我是一位對機器人技術充滿熱忱的學生，目前就讀於國立臺北科技大學機電技優領航專班，主要透過機電整合與工業自動化的實作經驗，累積控制系統與系統整合能力。
 
-## Key Achievements
+我曾於 **113 學年度全國高級中等學校學生工業類技藝競賽**中，於機電整合職類獲得第一名。競賽要求在有限時間內，從零建置一套完整系統，涵蓋 PLC 程式撰寫、機構組裝、感測器整合與設備調校。我在團隊中主要負責程式撰寫，也因此培養了扎實的邏輯分析能力，以及現場排除問題的實務經驗。
 
-- 113 學年度全國高級中等學校學生工業類技藝競賽（機電整合）: 第一名
-- 第 54 屆全國技能競賽中區分區技能競賽（機電整合）: 第五名
-- 第 55 屆全國技能競賽中區分區技能競賽（機器人系統整合）: 佳作
-- 2025 全國智慧製造應用競賽（初階 AB 組巡迴賽）: 晉級
-- 東海大學火星任務競賽（火星車避障賽）: 第二名
+除此之外，我也參與過多項機器人與智慧製造相關競賽，逐步培養跨領域整合能力。過去赴德國進行工業領域海外研習時，我實地觀察當地職業教育的運作模式，接觸變速箱實作課程，並參訪多家國際企業，進一步加深對工業自動化與智慧製造的理解。
+
+進入大學後，我開始意識到，技能競賽的訓練多聚焦於實作操作與現場整合能力，而研究所階段則需要更扎實的理論基礎與系統性的分析方法。過去的實作經驗並不會因此失去價值，反而成為我理解控制理論、系統建模與數學基礎時的重要參照。
 
 ## Skills
 
-### Control & Automation
-- PLC Programming: Mitsubishi FX3U / FX5U, Siemens S7-1200
-- Software: GX Works3, TIA Portal V19
-- HMI Design
+### 控制與自動化
 
-### Robotics
-- Industrial Robot Operation: FANUC, HIWIN
-- Path Planning and Teach Points
-- Motion Sequence Design and Integration
-- Simulation Software: ROBOGUIDE V9
+- PLC 程式設計：Mitsubishi FX3U / FX5U、Siemens S7-1200
+- 開發工具：GX Works3、TIA Portal V19
+- 人機介面（HMI）設計
 
-### System Integration
-- Automation Equipment Assembly and Tuning
-- Sensor Application and Signal Integration
-- On-site Troubleshooting and Optimization
+### 機器人技術
 
-### Programming
-- Ladder Logic (PLC)
-- Python (APCS 實作二級)
+- 工業機械手臂：FANUC、HIWIN
+- 路徑規劃與點位教導
+- 動作流程設計與系統整合
+- 模擬軟體：ROBOGUIDE
+
+### 系統整合
+
+- 自動化設備組裝與調整
+- 感測器應用與訊號整合
+- 機構調校與現場問題排除
+- 自動化系統流程設計與優化
+
+### 程式能力
+
+- Ladder Logic（PLC）
+- Python（APCS 實作二級）
+
+## Competitions
+
+### 2026
+
+- ActInSpace® Taiwan 2026｜參賽
+
+### 2025
+
+- 第 55 屆全國技能競賽中區分區技能競賽｜機器人系統整合｜佳作
+- 2025 全國智慧製造應用競賽｜初階 AB 組巡迴賽｜晉級
+  - 決賽因時間問題取消參賽
+- 第 55 屆全國技能競賽｜機電整合｜參賽
+
+### 2024
+
+- 第 54 屆全國技能競賽中區分區技能競賽｜機電整合｜第五名
+- 第十六屆上銀智慧機器手實作競賽｜智慧堆疊｜完成競賽題目
+- 113 學年度全國高級中等學校學生工業類技藝競賽｜機電整合｜第一名
+
+> 上銀智慧機器手實作競賽僅區分「完成」與「未完成」。
+
+### 2023
+
+- 東海大學火星任務競賽｜火星車避障賽｜第二名
+
+## Future
+
+我對機器人技術充滿熱忱，未來的首要目標是申請 **ETH Zurich 的 Master of Science in Robotics, Systems and Control**，並將 EPFL 與 TUM 的機器人相關碩士學程作為備選申請方向。
+
+不同於過去以競賽為主軸的學習方式，我現在希望主動補強控制理論、系統建模與數學等基礎知識，並將過去的實作經驗作為理解理論的重要參照。
+
+接下來，我將持續深耕以下方向：
+
+- 機器人與自動控制理論
+- 嵌入式系統與感測融合
+- 智慧製造與產線優化
+
+期望有一天能站上機器人與自動控制研究的最前線。
 
 ## Experience
 
-### National Taipei University of Technology
-Technical Program of Mechanical and Electrical Engineering  
-2025/09 ~ Present | Taipei, Taiwan
+### Technical Program of Mechanical and Electrical Engineering
 
-### Taichung Municipal Dajia Industrial Senior High School
-Department of Electrical Engineering  
-2022/09 ~ 2025/06 | Taichung, Taiwan
+**National Taipei University of Technology**  
+2025/09 ~ Present · Taipei, Taiwan
 
-## Future Goal
+### Electrical Engineering
 
-目標申請 ETH Zurich 的 Master of Science in Robotics, Systems and Control，
-持續深耕以下方向：
-
-- Robotics and Automatic Control
-- Embedded Systems and Sensor Fusion
-- Smart Manufacturing and Production Line Optimization
+**Taichung Municipal Dajia Industrial Senior High School**  
+2022/09 ~ 2025/06 · Taichung, Taiwan
