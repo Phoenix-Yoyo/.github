@@ -1,4 +1,4 @@
-# Hi, I'm 陳囿任 (Yoyo-Phoenix)
+# Hi, I'm 陳囿任 (Phoenix-Yoyo)
 
 > "Research is what I'm doing when I don't know what I'm doing." — Wernher von Braun
 
